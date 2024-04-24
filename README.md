@@ -7,9 +7,9 @@
 ### _Tinder project_
 
 ## 3. Machine learning 
-   ### 3.1 Machine learning supervised
+- Machine learning supervised
    ### _Conversion rate and Walmart's_
-   ### 3.2 Machine learning unsupervised 
+- Machine learning unsupervised 
    ### _The North face or Uber pickups_
 
 ## 4. Deep learning
