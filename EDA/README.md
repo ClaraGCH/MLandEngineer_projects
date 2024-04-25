@@ -31,3 +31,12 @@ The dataset also includes questionnaire data gathered from participants at diffe
 [Dataset](https://full-stack-assets.s3.eu-west-3.amazonaws.com/M03-EDA/Speed+Dating+Data.csv)
 
 [Dataset Description](https://full-stack-assets.s3.eu-west-3.amazonaws.com/M03-EDA/Speed+Dating+Data+Key.doc)
+
+## Deliverable 📬
+
+To complete this project, your team should deliver:
+
+A notebook with:
+* descriptive statistics
+* visualisations
+* captions and interpretations on how the stats and visualisations are relevant to why people agree to a second date
