@@ -1,0 +1,10 @@
+FROM python:3.9-slim
+
+WORKDIR /home/app
+
+RUN pip install --no-cache-dir streamlit
+COPY requirements.txt /dependencies/requirements.txt
+RUN pip install --no-cache-dir -r /dependencies/requirements.txt
+COPY . /home/app
+
+CMD streamlit run --server.port 8501 dashboard_predictor.py
