@@ -1,0 +1,14 @@
+FROM python:3.9-alpine
+
+# Set working directory
+WORKDIR /home/app
+
+# Copy requirements and install dependencies
+COPY requirements.txt /home/app/requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy application files
+COPY . /home/app
+
+# Set command to run Streamlit app
+CMD streamlit run --server.port 8500 dashboard_EDA.py
