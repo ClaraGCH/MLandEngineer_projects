@@ -1,4 +1,4 @@
-# Machine Learning and Engineer projects for certification
+# Machine Learning and Engineer projects
 
 ## 1. Build & Manage a Data infrastructure
 -  _Kayak project_
