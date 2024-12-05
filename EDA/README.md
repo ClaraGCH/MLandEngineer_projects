@@ -21,6 +21,7 @@ Tinder then gathered the data from this experiment. Each row in the dataset repr
 Use the dataset to understand what makes people interested into each other to go on a second date together:
 * You may use descriptive statistics
 * You may use visualisations
+* You may create an interactive Dasboard
 
 ## Scope of this project 🖼️
 
