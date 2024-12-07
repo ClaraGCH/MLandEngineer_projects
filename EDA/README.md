@@ -19,8 +19,12 @@ Tinder then gathered the data from this experiment. Each row in the dataset repr
 ## Goals 🎯
 
 Use the dataset to understand what makes people interested into each other to go on a second date together:
-* You may use visualization and descriptive statistics found in: TINDER_PROJECT_Speed_Dating.ipynb | a Dash dashboard TINDER_PROJECT_Speed_DATING.ipynb
-* You may create an interactive Dashboard : published in https://tinderapp-c0e7f45f6ec4.herokuapp.com/ documents found in TNDER_folder 
+* You may use visualization and descriptive statistics found in:
+    - TINDER_PROJECT_Speed_Dating.ipynb 
+    - Dash dashboard TINDER_PROJECT_Speed_DATING.ipynb
+* You may create an interactive Dashboard :
+    - Documents (.py, requirements and dockerfile) found in TNDER_folder
+    - Published in https://tinderapp-c0e7f45f6ec4.herokuapp.com/
 
 ## Scope of this project 🖼️
 
