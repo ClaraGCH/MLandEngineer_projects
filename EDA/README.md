@@ -23,7 +23,7 @@ Use the dataset to understand what makes people interested into each other to go
     - TINDER_PROJECT_Speed_Dating.ipynb 
     - Dash dashboard TINDER_PROJECT_Speed_DATING.ipynb
 * You may create an interactive Dashboard :
-    - Documents (.py, requirements and dockerfile) found in TNDER_folder
+    - Documents (.py, requirements and dockerfile) found in TINDER_APP folder
     - Published in https://tinderapp-c0e7f45f6ec4.herokuapp.com/
 
 ## Scope of this project 🖼️
