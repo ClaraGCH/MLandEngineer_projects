@@ -1,0 +1,24 @@
+FROM python:3.9-slim
+
+# Set working directory
+WORKDIR /home/app
+
+# Install required packages
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+    nano \
+    unzip \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy requirements and install dependencies
+COPY requirements.txt /dependencies/requirements.txt
+RUN pip install --no-cache-dir -r /dependencies/requirements.txt
+
+# Copy application files
+COPY . /home/app
+
+# Set command to run Dash app
+CMD python TinderEDA.py
+
+
